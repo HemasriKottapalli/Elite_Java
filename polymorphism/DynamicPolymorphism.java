@@ -10,9 +10,9 @@ public class DynamicPolymorphism {
 		nc.act();
 		Nagarjuna na = new Nagarjuna();
 		na.act();
-        na = new NagaChaitanya();
-        na = new Akhil();
-        na.act();
+                na = new NagaChaitanya();
+                na = new Akhil();
+                na.act();
 	}
 
 }
